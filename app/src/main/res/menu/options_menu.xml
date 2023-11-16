@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/fist_item"
+        android:title="Топ"
+        android:icon="@drawable/ic_topfilm"/>
+    <item
+        android:id="@+id/second_item"
+        android:title="Премьеры"
+        android:icon="@drawable/ic_premierefilm"/>
+
+</menu>
